@@ -14,7 +14,7 @@ Asuswrt-Merlin 386/NG Changelog
   - CHANGED: No longer restart nasapps/wsdd2 on WAN start.
   - REMOVED: jitterentropy-rngd (replaced with haveged)
 
-386.03_2-gnuton3 (??-??-????)
+386.03_2-gnuton4 (29-Set-2021)
   - ADDED: DNS over TLS support to VDSL WAN page
 
 386.03_2-gnuton2 (18-Set-2021)
